@@ -1,6 +1,6 @@
 {
   "name": "hubot-github-public-repos",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that list public repositories for the specified user",
   "main": "index.js",
   "scripts": {
