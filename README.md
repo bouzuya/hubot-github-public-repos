@@ -2,6 +2,8 @@
 
 A Hubot script that list public repositories for the specified user
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140911/20140911140245.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-github-public-repos.git
